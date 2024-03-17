@@ -1,3 +1,3 @@
 Hello
 Calvin
-Yes
+Yes, we fixed the bug
